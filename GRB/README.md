@@ -3,7 +3,7 @@
 ## Introduction
 This experience is focused on the analysis of a GRB as observed by the Fermi-GBM instrument, and to use objects and classes to build a simple timing analysis.
 
-After having looked at the set of tutorials, you will go on and develop a small project of GRB analysis.
+After having looked at the set of tutorials, we developed a small project of GRB analysis.
 
 ## Objectives
 In this experience, we will closely explore an event observed by the Fermi mission in 2009, GRB090926A.

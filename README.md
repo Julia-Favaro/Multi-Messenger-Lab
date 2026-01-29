@@ -21,7 +21,7 @@ Each folder contains a README file that goes through all the code files and the 
 - Analyze and interpret data from radio, optical, X-ray, gamma-ray, and gravitational-wave observations;
 - Design and implement data analysis activities using tools and methodologies employed in contemporary multimessenger astrophysical research.
 
-#### Usage, data, and libraries
+### Usage, data, and libraries
 My partners and I obtained the datasets during our lab lectures. Documentation is embedded in the code. 
 
 **Prerequisites**: 

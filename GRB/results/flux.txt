@@ -1,0 +1,19 @@
+flux n7
+Model Flux     35.42 photons (1.3513e-06 ergs/cm^2/s) range (10.000 - 50.000 keV)
+Model Flux     20.06 photons (3.6598e-06 ergs/cm^2/s) range (50.000 - 300.00 keV)
+Model Flux    300.02 photons (2.341e-05 ergs/cm^2/s) range (5.0000 - 300.00 keV)
+flux n3
+Model Flux     35.42 photons (1.3513e-06 ergs/cm^2/s) range (10.000 - 50.000 keV)
+Model Flux     20.06 photons (3.6598e-06 ergs/cm^2/s) range (50.000 - 300.00 keV)
+Model Flux    300.02 photons (2.341e-05 ergs/cm^2/s) range (5.0000 - 300.00 keV)
+
+XSPEC12>flux 10 50 err
+Parameter distribution is derived from fit covariance matrix.
+ Model Flux    7.8462 photons (3.2154e-07 ergs/cm^2/s) range (10.000 - 50.000 keV)
+     Error range     7.697 - 7.962    (3.163e-07 - 3.256e-07)  (68.00% confidence)
+
+flux b0
+Model Flux    54.842 photons (2.2121e-05 ergs/cm^2/s) range (100.00 - 2.0000e+05 keV)
+flux b1
+Model Flux    54.842 photons (2.2121e-05 ergs/cm^2/s) range (100.00 - 2.0000e+05 keV)
+

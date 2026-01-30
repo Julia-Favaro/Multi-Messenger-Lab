@@ -1,40 +1,23 @@
-### Data Analysis Experience
-# Gravitational Waves
+### Experience - Data Analysis of Gravitational Waves
 
 ## Introduction
-This set of Python Notebooks introduces you the material
-used for the experience on data analysis of gravitational waves.
+This set of Python Notebooks introduces you to the material used for the experience on gravitational waves data analysis.
 
+# Objectives
+The first part of this project will cover the characterization of the GW event noise with an amplitude spectral density analysis. 
+
+The second part will focus on the frequency domain: 
+- Create a TimeSeries object and use a notch filter 
+- Match filter your event with a template for a Compact Binary Merger
+  
 ## Structure of the package
 The package contains the following directories
 
-* *data*: Directory to store the data used for this experience;
-* *tutorials*: Contains Python Juyter notebooks used as a tutorial for the analysis;
-* *code*: Contains a sample Python Juyter notebook to be used for theanalysis;
-* *report*: Directory to put the report, such as the Latex code and compiled report in PDF format;
+* *data*: Directory to store the data used for this experience from the GWOSC website;
+* *tutorials*: Contains Python Jupyter notebooks used as a tutorial for the analysis;
+* *code*: Contains a sample Python Jupyter notebook to be used for theanalysis;
+You can find more information on the Official pages of these packages:
 
-## Getting the package
-In order to get the packege with the tutorial and the exercise, you should run a git clone.
-For instance 
-```
-git clone https://github.com/mmphyslab-pi/exp-gw.git
-```
-
-## Working with the package
-Of course, since this is a git repo, you can do what do you want (commit, push, create branches, etc).
-However, if you want to modify and play with the tutorial code and not change the original, you can create a branch:
-```
-git branch gw-mybranch
-git checkout gw-mybranch
-git branch 
-```
-**This package contains the individual work related to the experience, so if you want you can work directly on the master branch.*
-
-
-## At the end?
-When you have completed your taks, please edit the evaluation.md file filling with your name, surname and date.
-And of course, please remember to commit and push adding a meaningful comment.
-```
-git commit -a -m "A comment" 
-git push origin master gw-mybranch
-```
+* [Official Page of the Astropy project](http://www.astropy.org)
+* [Official Page of CCDProc](https://ccdproc.readthedocs.io/en/latest/)
+* [Official Page of PhotUtils](https://photutils.readthedocs.io/en/stable/index.html)
